@@ -137,14 +137,14 @@ index=* EventCode=4625
 Process Creation Events<br>
 index=* EventCode=4688
 
-Skills Gained:
-*SIEM Configuration
-*Log Forwarding
-*Windows Event Analysis
-*SPL Query Writing
-*Threat Detection
-*Authentication Monitoring
-*Dashboard Visualization
+Skills Gained:<br>
+*SIEM Configuration<br>
+*Log Forwarding<br>
+*Windows Event Analysis<br>
+*SPL Query Writing<br>
+*Threat Detection<br>
+*Authentication Monitoring<br>
+*Dashboard Visualization<br>
 *Basic SOC Investigation Workflow
 
 
